@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brandysówka Dolina Będkowska"
+        "name": "Brandysówka Dolina Będkowska",
+        "stars": 5
       },
       "geometry": {
         "type": "Point",

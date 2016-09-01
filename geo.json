@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brandysówka Dolina Będkowska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.74070429801941,
+          50.17260358213178
+        ]
+      }
+    }
+  ]
+}
